@@ -1,0 +1,16 @@
+.panel1, .panel2, .panel3{
+    display: none;
+    transition: 2s;
+}
+
+.change .panel1{
+    display: block;
+}
+
+.change .panel2{
+    display: block;
+}
+
+.change .panel3{
+    display: block;
+}
